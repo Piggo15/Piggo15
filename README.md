@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="center">"Professional" Indie Dev</h3>
 <h6 align="center">Hush Zink I didn't steal this from you shush</h6>
-<img scr="https://static.wixstatic.com/media/080afc_34853ff4a530473d81442492866d2b33~mv2.png/v1/fill/w_191,h_64,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/080afc_34853ff4a530473d81442492866d2b33~mv2.png"/>
+<img scr="https://img.icons8.com/color/c-sharp-logo.png"/>
 <p>- 👋 Hi, I’m @HauserCGearSpin aka Cole Hauser aka Piggo151</p>
 <p>- 👀 I’m interested in Unity, Music, and Computer Science and IT in general.</p>
 <p>- 🌱 I’m currently learning python, Unity, C#, and JS.</p>
