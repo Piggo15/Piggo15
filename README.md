@@ -52,6 +52,33 @@ fixed alignment - zink
   As a student, I am stil very much learning a lot. At my school, we have the opprotunity to work for certifications, so I have been working on those for quite a while. Also as a student, and as a minor, I don't really have acess to much time, but I'm learning stuff.
 </p>
 
+<h2>
+Certifications
+</h2>
+
+<ul>
+  <li>
+    Unity Certified User: Artist
+  </li>
+  
+  <li>
+    Unity Certified User: Programmer
+  </li>
+  
+  <li>
+    Unity Certified User: VR Developer
+  </li>
+  
+  <li>
+    Information Technology Specialist: Data Analytics
+  </li>
+  
+  <li>
+    Information Technology Specialist: Computational Thinking
+  </li>
+    
+</ul>
+
 <p>
   <img src="https://img.icons8.com/color/c-sharp-logo.png"/>
 </p>
