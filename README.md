@@ -18,7 +18,9 @@ fixed alignment - zink
 </h1>
 <h3 align="center">I am Cole Hauser. This is my GearSpin / Zinklof.Dev account. Here are some things about me:</h3>
 
-<img src="https://static.wixstatic.com/media/1bf8c6_01059526d44a402db263a996a2f0ad62~mv2.png/v1/fill/w_54,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/1bf8c6_01059526d44a402db263a996a2f0ad62~mv2.png"/>
+<img align="center" src="https://static.wixstatic.com/media/1bf8c6_01059526d44a402db263a996a2f0ad62~mv2.png/v1/fill/w_54,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/1bf8c6_01059526d44a402db263a996a2f0ad62~mv2.png"/>
+
+<img align="center" src="https://ibb.co/7CcBgp4"/>
 
 <h2 align="center">
   What do I do?
