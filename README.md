@@ -83,10 +83,23 @@ Certifications
 
 
 
-| Logo | Certification | Date Earned | Verification Code <br><h6> Go to the <a href="https://verify.certiport.com" target="_blank">Global Certiport Credential Verification</a><br>(You don't need for birthday or student ID, you can just submit code)</h6>|
+| Logo | Certification | Date Earned | Verification Code <br><h6> Go to the <a href="https://verify.certiport.com">Global Certiport Credential Verification</a><br>(You don't need for birthday or student ID, you can just submit code)</h6>|
 |:---:|:---:|:---:|:---:|
-|<img src="https://img.icons8.com/?size=64&id=39848&format=png&color=000000" title="Unity Game Engine (22/23/6)"/> | Unity Certified User: Artist |	1/12/2023 | aXvF-s4TW
-|<img src="https://img.icons8.com/?size=64&id=39848&format=png&color=000000" title="Unity Game Engine (22/23/6)"/> | Unity Certified User: Programmer | 1/23/2023 | adW5-sFKa
-|<img src="https://img.icons8.com/?size=64&id=39848&format=png&color=000000" title="Unity Game Engine (22/23/6)"/> |Unity Certified User: Artist | 2/23/2023 | aXvF-s4TW
-|<img src="https://github.com/HauserCGearSpin/HauserCGearSpin/blob/main/Assets/ZDEV%20PNGs/IT-Logo.png"> |Information Technology Specialist in Computational Thinking |	12/1/2023 | wd5cD-FaS2
-|<img src="https://github.com/HauserCGearSpin/HauserCGearSpin/blob/main/Assets/ZDEV%20PNGs/IT-Logo.png" title="IT Specalist"> |Information Technology Specialist in Data Analytics | 12/14/2023 | 9zap-s4bB
+|<img src="https://img.icons8.com/?size=64&id=39848&format=png&color=000000" title="Unity Game Engine (22/23/6)"/> | Unity Certified User: Artist |	1/12/2023 | wvAYK-H9uN |
+|<img src="https://img.icons8.com/?size=64&id=39848&format=png&color=000000" title="Unity Game Engine (22/23/6)"/> | Unity Certified User: Programmer | 1/23/2023 | adW5-sFKa |
+|<img src="https://img.icons8.com/?size=64&id=39848&format=png&color=000000" title="Unity Game Engine (22/23/6)"/> |Unity Certified User: VR Developer | 2/23/2023 | aXvF-s4TW |
+|<img src="https://github.com/HauserCGearSpin/HauserCGearSpin/blob/main/Assets/ZDEV%20PNGs/IT-Logo.png"> |Information Technology Specialist in Computational Thinking |	12/1/2023 | wd5cD-FaS2 |
+|<img src="https://github.com/HauserCGearSpin/HauserCGearSpin/blob/main/Assets/ZDEV%20PNGs/IT-Logo.png" title="IT Specalist"> |Information Technology Specialist in Data Analytics | 12/14/2023 | 9zap-s4bB |
+
+<br>
+
+[![Cole's Zinklof.Dev / GearSpin GitHub stats](https://github-readme-stats.vercel.app/api?username=HauserCGearSpin&show_icons=true&theme=cobalt)](https://github.com/HauserCGearSpin/github-readme-stats)
+ <br>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+<p>
+   NOTE: Stats are only for public repositories, private repositories not included in stats. There is a way to set it up so that private commits and stuff shows up, who knows maybe I'll set that up later, but not right now.
+</p>
+</p>
