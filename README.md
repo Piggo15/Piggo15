@@ -20,8 +20,8 @@ fixed alignment - zink
 <h3 align="center">I am Cole Hauser. This is my GearSpin / Zinklof.Dev account. Here are some things about me:</h3>
 
 <p align="center">
-  <img src="https://static.wixstatic.com/media/1bf8c6_01059526d44a402db263a996a2f0ad62~mv2.png/v1/fill/w_54,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/1bf8c6_01059526d44a402db263a996a2f0ad62~mv2.png"/>
   <img src="https://github.com/HauserCGearSpin/HauserCGearSpin/blob/main/Assets/ZDEV%20PNGs/1000x135_FullLogo_T.png"/> <!-- Zinklof.Dev Logo -->
+  <img src="https://static.wixstatic.com/media/1bf8c6_01059526d44a402db263a996a2f0ad62~mv2.png/v1/fill/w_54,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/1bf8c6_01059526d44a402db263a996a2f0ad62~mv2.png"/> <img src="https://static.wixstatic.com/media/080afc_34853ff4a530473d81442492866d2b33~mv2.png/v1/fill/w_191,h_64,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/080afc_34853ff4a530473d81442492866d2b33~mv2.png"/>
 </p>
 
 <h2 align="center">
@@ -81,9 +81,16 @@ Certifications
     
 </ul>
 
-| Certification | Date Earned | PDFs |
+
+
+| Certification | Date Earned | Verification Code <br> Go to <a> |
 |:---:|:---:|:---:|
-| Unity Certified User: Artist |
+| Unity Certified User: Artist |	1/12/2023 | aXvF-s4TW
+| Unity Certified User: Programmer | 1/23/2023 | adW5-sFKa
+| Unity Certified User: Artist | 2/23/2023 | 
+| Information Technology Specialist in Computational Thinking |	12/1/2023 |
+| Information Technology Specialist in Data Analytics | 12/14/2023 |
+
 
 
 <p>
