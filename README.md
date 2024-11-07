@@ -21,7 +21,7 @@ fixed alignment - zink
 
 <p align="center">
   <img src="https://static.wixstatic.com/media/1bf8c6_01059526d44a402db263a996a2f0ad62~mv2.png/v1/fill/w_54,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/1bf8c6_01059526d44a402db263a996a2f0ad62~mv2.png"/>
-  <img src="https://i.ibb.co/YQ9JDdZ/IMG-7643.jpg"/>
+  <img src="https://github.com/HauserCGearSpin/HauserCGearSpin/blob/main/Assets/ZDEV%20PNGs/1000x135_FullLogo_T.png"/> <!-- Zinklof.Dev Logo -->
 </p>
 
 <h2 align="center">
