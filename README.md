@@ -88,11 +88,5 @@ Certifications
 |<img src="https://img.icons8.com/?size=64&id=39848&format=png&color=000000" title="Unity Game Engine (22/23/6)"/> | Unity Certified User: Artist |	1/12/2023 | aXvF-s4TW
 |<img src="https://img.icons8.com/?size=64&id=39848&format=png&color=000000" title="Unity Game Engine (22/23/6)"/> | Unity Certified User: Programmer | 1/23/2023 | adW5-sFKa
 |<img src="https://img.icons8.com/?size=64&id=39848&format=png&color=000000" title="Unity Game Engine (22/23/6)"/> |Unity Certified User: Artist | 2/23/2023 | aXvF-s4TW
-|<img src="https://github.com/HauserCGearSpin/HauserCGearSpin/blob/main/Assets/ZDEV%20PNGs/ITS-500x500-stacked.png" title="IT Specalist"> |Information Technology Specialist in Computational Thinking |	12/1/2023 | wd5cD-FaS2
-| |Information Technology Specialist in Data Analytics | 12/14/2023 | 9zap-s4bB
-
-
-
-<p>
-  <img src="https://img.icons8.com/color/c-sharp-logo.png"/>
-</p>
+|<img src="[https://github.com/HauserCGearSpin/HauserCGearSpin/blob/main/Assets/ZDEV%20PNGs/ITS-500x500-stacked.png](https://github.com/HauserCGearSpin/HauserCGearSpin/blob/main/Assets/ZDEV%20PNGs/IT-Logo.png)" title="IT Specalist"> |Information Technology Specialist in Computational Thinking |	12/1/2023 | wd5cD-FaS2
+|<img src="https://github.com/HauserCGearSpin/HauserCGearSpin/blob/main/Assets/ZDEV%20PNGs/ITS-500x500-stacked.png" title="IT Specalist"> |Information Technology Specialist in Data Analytics | 12/14/2023 | 9zap-s4bB
