@@ -83,13 +83,13 @@ Certifications
 
 
 
-| Certification | Date Earned | Verification Code <br> Go to <a> |
-|:---:|:---:|:---:|
-| Unity Certified User: Artist |	1/12/2023 | aXvF-s4TW
-| Unity Certified User: Programmer | 1/23/2023 | adW5-sFKa
-| Unity Certified User: Artist | 2/23/2023 | 
-| Information Technology Specialist in Computational Thinking |	12/1/2023 |
-| Information Technology Specialist in Data Analytics | 12/14/2023 |
+| Logo | Certification | Date Earned | Verification Code <br><h6> Go to the <a href="https://verify.certiport.com" target="_blank">Global Certiport Credential Verification</a><br>(You don't need for birthday or student ID, you can just submit code)</h6>|
+|:---:|:---:|:---:|:---:|
+|<img src="https://img.icons8.com/?size=64&id=39848&format=png&color=000000" title="Unity Game Engine (22/23/6)"/> | Unity Certified User: Artist |	1/12/2023 | aXvF-s4TW
+|<img src="https://img.icons8.com/?size=64&id=39848&format=png&color=000000" title="Unity Game Engine (22/23/6)"/> | Unity Certified User: Programmer | 1/23/2023 | adW5-sFKa
+|<img src="https://img.icons8.com/?size=64&id=39848&format=png&color=000000" title="Unity Game Engine (22/23/6)"/> |Unity Certified User: Artist | 2/23/2023 | aXvF-s4TW
+|<img src="" title="IT Specalist"> |Information Technology Specialist in Computational Thinking |	12/1/2023 | wd5cD-FaS2
+| |Information Technology Specialist in Data Analytics | 12/14/2023 | 9zap-s4bB
 
 
 
