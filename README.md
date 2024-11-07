@@ -16,11 +16,13 @@ fixed alignment - zink
 <h1 align="center">
   🌈🌸🐬 Hallo! 🐬🌸🌈
 </h1>
+
 <h3 align="center">I am Cole Hauser. This is my GearSpin / Zinklof.Dev account. Here are some things about me:</h3>
 
-<img align="center" src="https://static.wixstatic.com/media/1bf8c6_01059526d44a402db263a996a2f0ad62~mv2.png/v1/fill/w_54,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/1bf8c6_01059526d44a402db263a996a2f0ad62~mv2.png"/>
-
-<img src="https://i.ibb.co/YQ9JDdZ/IMG-7643.jpg" align="center"/>
+<p align="center">
+  <img src="https://static.wixstatic.com/media/1bf8c6_01059526d44a402db263a996a2f0ad62~mv2.png/v1/fill/w_54,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/1bf8c6_01059526d44a402db263a996a2f0ad62~mv2.png"/>
+  <img src="https://i.ibb.co/YQ9JDdZ/IMG-7643.jpg"/>
+</p>
 
 <h2 align="center">
   What do I do?
@@ -78,6 +80,11 @@ Certifications
   </li>
     
 </ul>
+
+| Certification | Date Earned | PDFs |
+|:---:|:---:|:---:|
+| Unity Certified User: Artist |
+
 
 <p>
   <img src="https://img.icons8.com/color/c-sharp-logo.png"/>
