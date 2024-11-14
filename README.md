@@ -100,9 +100,3 @@ Certifications
    
    [![Top Langs](https://github-readme-stats-cole-hausers-projects.vercel.app/api/top-langs/?username=HauserCGearSpin&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   </div>
-
-
-<p>
-   NOTE: Stats are only for public repositories, private repositories not included in stats. Also repos that I have contributed to and don't own don't count. There is a way to set it up so that private commits and stuff shows up, who knows maybe I'll set that up later, but not right now.
-</p>
-</p>
