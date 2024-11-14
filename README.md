@@ -98,7 +98,7 @@ Certifications
    
    <br>
    
-   [![Top Langs](https://github-readme-stats-iota-hazel.vercel.app/api/top-langs/?username=HauserCGearSpin&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats-cole-hausers-projects.vercel.app/api/top-langs/?username=HauserCGearSpin&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   </div>
 
 
