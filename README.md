@@ -91,6 +91,13 @@ Certifications
 |<img src="https://github.com/HauserCGearSpin/HauserCGearSpin/blob/main/Assets/ZDEV%20PNGs/IT-Logo.png"> |Information Technology Specialist in Computational Thinking |	12/1/2023 | wd5cD-FaS2 |
 |<img src="https://github.com/HauserCGearSpin/HauserCGearSpin/blob/main/Assets/ZDEV%20PNGs/IT-Logo.png" title="IT Specalist"> |Information Technology Specialist in Data Analytics | 12/14/2023 | 9zap-s4bB |
 
+
+<!---
+ 
+  GitHub Stats need a new token every month at Vercel.com. Make sure tolen has acess to Repo and User.
+
+--->
+
 <div align="center">
   <br>
   
