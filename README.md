@@ -101,9 +101,9 @@ Certifications
 <div align="center">
   <br>
   
-   [![Cole's Zinklof.Dev / GearSpin GitHub stats](https://github-readme-stats-cole-hausers-projects.vercel.app/api?username=HauserCGearSpin&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+   [![Cole's Zinklof.Dev / GearSpin GitHub stats](https://github-readme-stats-cole-hausers-projects.vercel.app/api?username=Piggo15&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
    
    <br>
    
-   [![Top Langs](https://github-readme-stats-cole-hausers-projects.vercel.app/api/top-langs/?username=HauserCGearSpin&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats-cole-hausers-projects.vercel.app/api/top-langs/?username=Piggo15&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   </div>
