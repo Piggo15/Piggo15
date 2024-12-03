@@ -72,7 +72,7 @@ Certifications
 
 
 
-| Logo | Certification | Date Earned | Verification Code <br><h6> Go to the <a href="https://verify.certiport.com">Global Certiport Credential Verification</a><br>(You don't need for birthday or student ID, you can just submit code)</h6>|
+| Logo | Certification | Date Earned | Verification Code <br><h6> Go to the <a href="https://verify.certiport.com">Global Certiport Credential Verification</a><br>(You don't need the birthday or student ID, you can just submit code)</h6>|
 |:---:|:---:|:---:|:---:|
 |<img src="https://img.icons8.com/?size=64&id=39848&format=png&color=000000" title="Unity Game Engine (22/23/6)"/> | Unity Certified User: Artist |	1/12/2023 | wvAYK-H9uN |
 |<img src="https://img.icons8.com/?size=64&id=39848&format=png&color=000000" title="Unity Game Engine (22/23/6)"/> | Unity Certified User: Programmer | 1/23/2023 | adW5-sFKa |
