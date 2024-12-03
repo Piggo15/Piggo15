@@ -17,7 +17,7 @@ fixed alignment - zink
   🌈🌸🐬 Hallo! 🐬🌸🌈
 </h1>
 
-<h3 align="center">I am Cole Hauser. This is my GearSpin / Zinklof.Dev account. Here are some things about me:</h3>
+<h3 align="center">I am Cole Hauser. Here are some things about me:</h3>
 
 <h2 align="center">
   What do I do?
