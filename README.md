@@ -31,7 +31,7 @@ fixed alignment - zink
 </h6>
 
 <p>
-  As a "professional" Indie Dev, I work with Zink and the team as an employee for Zinklof.Dev and formerly worked for GearSpin Studios. I mainly create music for our games, but recently I have been diving deep into the programming side of our projects. I am currently (as of the 2024-2025 school year) a junior in high school. I attend a special magnet school with Zink specifically for game development and IT stuff. I currently have spent about three years working in the Unity Game Engie, and have really started getting really familiar to how the engine works. I currently have three Unity certifications, all three of the Unity User level certifications. I'm looking at getting Associate or professional level certifications, but I don't know if they'll be availible to me. We just very recently got the Unreal Engine, so I am going to attempt to learn that too. In addition, I've worked in Visual Studio, and I have some very basic experience in Autodesk Maya and Photoshop.As a student, I am stil very much learning a lot. At my school, we have the opprotunity to work for certifications, so I have been working on those for quite a while. Also as a student, and as a minor, I don't really have acess to much time, but I'm learning as much as I can.
+  As a "professional" Indie Dev, I work with Zink and the team as an employee for Zinklof.Dev and formerly worked for GearSpin Studios. I mainly create music for our games, but recently I have been diving deep into the programming side of our projects. I am currently (as of the 2024-2025 school year) a junior in high school. I attend a special magnet school with Zink specifically for game development and IT stuff. I currently have spent about three years working in the Unity Game Engie, and have really started getting really familiar to how the engine works. I currently have three Unity certifications, all three of the Unity User level certifications. I'm looking at getting Associate or professional level certifications, but I don't know if they'll be availible to me. We just very recently got the Unreal Engine, so I am going to attempt to learn that too. In addition, I've worked in Visual Studio, and I have some very basic experience in Autodesk Maya and Photoshop. As a student, I am still very much learning a lot. At my school, we have the opprotunity to work for certifications, so I have been working on those for quite a while. Also as a student, and as a minor, I don't really have acess to much time, but I'm learning as much as I can.
 </p>
 
 <!---
@@ -96,7 +96,7 @@ Certifications
    
    [![Top Langs](https://github-readme-stats-cole-hausers-projects.vercel.app/api/top-langs/?username=Piggo15&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
    <br>
-   <i>Expires on Fri, Jan 10 2025.</i>
+   <i>Expires on Fri, Feb 5 2025.</i>
   </div>
   
   <p align="center">
