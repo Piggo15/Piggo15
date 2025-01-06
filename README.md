@@ -96,7 +96,7 @@ Certifications
    
    [![Top Langs](https://github-readme-stats-cole-hausers-projects.vercel.app/api/top-langs/?username=Piggo15&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
    <br>
-   <i>Expires on Fri, Feb 5 2025.</i>
+   <i>Expires on Wed, Feb 5 2025.</i>
   </div>
   
   <p align="center">
